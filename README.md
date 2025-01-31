@@ -1,6 +1,8 @@
 # paperless-ngx
 
 Para instalarlo: git clone https://github.com/pitiritic/paperless-ngx  
+docker-compose up -d  
+
 Ver en "localhost:8200"  
 
 Usuario: paperless  
