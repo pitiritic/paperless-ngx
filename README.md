@@ -1,9 +1,9 @@
 # paperless-ngx
 
 Para instalarlo: 
-1.- Ir a la carperta en la que esté instalada docker
+1.- Ir a la carperta en la que esté instalada docker  
 2.- git clone https://github.com/pitiritic/paperless-ngx  
-3.- cd paperless-ngx
+3.- cd paperless-ngx  
 4.- docker-compose up -d  (hay que tener instalado docker-compose) 
 
 
