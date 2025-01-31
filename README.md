@@ -1,4 +1,6 @@
 # paperless-ngx
+
+Para instalarlo: git clone https://github.com/pitiritic/paperless-ngx  
 Ver en "localhost:8200"  
 
 Usuario: paperless  
